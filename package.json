@@ -2,7 +2,7 @@
   "name": "quizz-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Elena5585/quizz-game",
+  "homepage": "https://github.com/Elena5585/Quizz-game",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
